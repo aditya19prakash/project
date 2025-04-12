@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "this is my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya19prakash/project.git"
+  },
+  "author": "Aditya prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya19prakash/project/issues"
+  },
+  "homepage": "https://github.com/aditya19prakash/project#readme"
+}
