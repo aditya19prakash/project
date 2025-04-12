@@ -1,12 +1,18 @@
 {
-    "name": "aditya",
+    "name": "fcc-learn-npm-package-json",
     "version": "1.0.0",
-    "main": "index.js",
+    "description": "A project that helps understand how to use package.json with npm",
+    "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "node server.js"
     },
-    "author": "aditya prakash",
-    "license": "ISC",
-    "description": ""
+    "dependencies": {
+      "express": "^4.14.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+    },
+    "author": "Aditya Prakash"
   }
   
